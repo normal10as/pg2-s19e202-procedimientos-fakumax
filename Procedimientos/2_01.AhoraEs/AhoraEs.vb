@@ -11,7 +11,7 @@ Module AhoraEs
         Console.WriteLine("La hora es " & horaActual())
     End Sub
     Sub fechaActual()
-        Console.WriteLine("La fecha es :" & Now.Date)
+        Console.WriteLine("La fecha es : " & Now.Date)
     End Sub
 
     Function horaActual() As String

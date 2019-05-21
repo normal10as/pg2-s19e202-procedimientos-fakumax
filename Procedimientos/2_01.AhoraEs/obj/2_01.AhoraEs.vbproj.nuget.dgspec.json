@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\2_01.AhoraEs.vbproj": {}
+    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\2_01.AhoraEs.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\2_01.AhoraEs.vbproj": {
+    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\2_01.AhoraEs.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\2_01.AhoraEs.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\2_01.AhoraEs.vbproj",
         "projectName": "2_01.AhoraEs",
-        "projectPath": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\2_01.AhoraEs.vbproj",
-        "packagesPath": "C:\\Users\\n0maGo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0maGo\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\obj\\",
+        "projectPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\2_01.AhoraEs.vbproj",
+        "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-procedimientos-fakumax\\Procedimientos\\2_01.AhoraEs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\n0maGo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n0mak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

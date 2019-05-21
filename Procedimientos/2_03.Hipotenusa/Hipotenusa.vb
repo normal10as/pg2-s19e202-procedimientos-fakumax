@@ -7,16 +7,15 @@ Imports System.Math
 'fórmula: c² = a² + b². Ingresar los valores por teclado y mostrar el resultado en consola.
 Module Hipotenusa
     Sub Main(args As String())
-        Dim a, b As Integer
-        Console.WriteLine("Ingrese lado a : ")
+        Dim a, b As Double
+        Console.WriteLine("Ingrese lado 'A' : ")
         a = Console.ReadLine
-        Console.WriteLine("Ingrese lado b : ")
+        Console.WriteLine("Ingrese lado 'B' : ")
         b = Console.ReadLine
-        Console.WriteLine("El resultado es :" & hipotenusa(a, b))
+        Console.WriteLine("El resultado 'C' es : " & hipotenusa(a, b))
 
     End Sub
-    Function hipotenusa(a As Integer, b As Integer) As Decimal
-        Return Sqrt(a * 2)
-
+    Function hipotenusa(a As Double, b As Double) As Decimal
+        Return Sqrt((a ^ 2) + (b ^ 2))
     End Function
 End Module

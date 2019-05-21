@@ -15,7 +15,7 @@ Module Nueva_fecha
         Console.WriteLine(recibeFecha(fecha, cantidadDias))
     End Sub
 
-    Function recibeFecha(fec As Date, cdias As UShort) As String
-        Return fec.AddDays(cdias)
+    Function recibeFecha(fecha As Date, cantidadDias As UShort) As String
+        Return fecha.AddDays(cantidadDias)
     End Function
 End Module
