@@ -1,8 +1,8 @@
 Imports System
-'2.7. Crear un proyecto y un módulo llamado “Sumas” que implementa una función sobrecargada
-'capaz de sumar dos, tres y cuatro valores de acuerdo al número de argumentos que recibe.
-'Invocarla desde el módulo main probando las diferentes alternativas y mostrando los
-'resultados por consola. Ej.: sumar(5, 8).Minimizar la repetición de código.
+'2.7. Crear un proyecto y un mÃ³dulo llamado â€œSumasâ€ que implementa una funciÃ³n sobrecargada
+'capaz de sumar dos, tres y cuatro valores de acuerdo al nÃºmero de argumentos que recibe.
+'Invocarla desde el mÃ³dulo main probando las diferentes alternativas y mostrando los
+'resultados por consola. Ej.: sumar(5, 8).Minimizar la repeticiÃ³n de cÃ³digo.
 Module Sumas
     Sub Main(args As String())
         Console.WriteLine("El resultado es : " & sumas(3, 4))
@@ -13,11 +13,12 @@ Module Sumas
     Function sumas(num1 As Integer, num2 As Integer) As Integer
         Return num1 + num2
     End Function
+    
     Function sumas(num1 As Integer, num2 As Integer, num3 As Integer) As Integer
         Return num1 + num2 + num3
     End Function
-
-    Function sumas(num1 As Integer, num2 As Integer, num3 As Integer, num4 As Integer)
+    
+    Function sumas(num1 As Integer, num2 As Integer, num3 As Integer, num4 As Integer)  As Integer
         Return num1 + num2 + num3 + num4
     End Function
 
